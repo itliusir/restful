@@ -8,6 +8,7 @@
 
 # [Spring MVC与JAX-RS比较与分析](http://www.infoq.com/cn/articles/springmvc_jsx-rs)
 
+# [Rest 超媒体](https://projects.spring.io/spring-hateoas/)
 
 ---------
 
